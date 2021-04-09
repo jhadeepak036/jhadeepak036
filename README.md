@@ -1,4 +1,4 @@
-### Hey, I'm Deepak Madan Jha 👋
+### Hey, I'm Deepak M. Jha 👋
 
 - 🔭 I’m currently working with codelok team.
 - 🌱 I’m currently learning React.js,Redux,and Mongo DB .
@@ -7,5 +7,5 @@
 - 💬 Ask me about JavaScript, Node.js, Express.js, MySQL, Html,CSS,Bootstrap, Git & Github.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:"Handsome is that,Handsome does"
 -->
