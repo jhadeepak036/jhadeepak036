@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:"Handsome is that,Handsome does"
-<img src="https://github-readme-stats.vercel.app/api?username=iirfanansarii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-status.vercel.app/api?username=Deepak M. Jha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
