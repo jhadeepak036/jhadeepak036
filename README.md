@@ -8,4 +8,3 @@ Hey, I'm Deepak Madan Jha 👋
 - 📫 How to reach me:Hyderabad 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:"Handsome is that,Handsome does"
-<img src="https://github-readme-status.vercel.app/api?username=jhadeepak036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
