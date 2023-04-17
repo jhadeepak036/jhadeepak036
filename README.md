@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help in Data Science Project to improve my skills.
 - 💬 Ask me about Python(Pandas,Numpy,Matplotlib,Seaborn), Visualization Tool, Machine learning, Deep Learning, Natural processing language, Artificial      Intelligence, Git & Github.
-- 📫 How to reach me:Hyderabad 
+- 📫 How to reach me:deepakmadanjha@gmail.com 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:"Handsome is that,Handsome does"
 
