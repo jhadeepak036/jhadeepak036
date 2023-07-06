@@ -1,4 +1,4 @@
-![MasterHead](https://www.algosoft.co/assets/front/image/big%20data.gif)
+![MasterHead](https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz/fullscreen)
 <h1 align="center">Hi 👋, I'm Deepak Madan Jha</h1>
 <img align="right" alt="Coding" width="400" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif"
 
