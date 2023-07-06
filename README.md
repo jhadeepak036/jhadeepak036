@@ -1,4 +1,5 @@
-![MasterHead](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
+![MasterHead]( https://cutewallpaper.org/21x/fnu1nmige/Tips-that-Will-Help-Elevate-Your-Career-as-a-Data-Scientist.jpg)
+
 <h1 align="center">Hi 👋, I'm Deepak Madan Jha</h1>
 <img align="right" alt="Coding" width="400" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif"
 
