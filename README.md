@@ -1,5 +1,4 @@
-![MasterHead]( https://cutewallpaper.org/21x/fnu1nmige/Tips-that-Will-Help-Elevate-Your-Career-as-a-Data-Scientist.jpg)
-
+![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)
 <h1 align="center">Hi 👋, I'm Deepak Madan Jha</h1>
 <img align="right" alt="Coding" width="400" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif"
 
